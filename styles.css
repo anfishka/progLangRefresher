@@ -1,0 +1,109 @@
+
+:root{
+    color:rgb(255,254,252) ;
+    
+    --color_1: rgb(42,124,111) ;
+    --color_2: rgb(42,124,111) ;
+    --color_3: rgb(44,141,126) ;
+    --color_4: rgb(255,253,248) ;
+    --color_5: rgb(238,250,247) ;
+    --color_6: rgb(255,254,252) ;
+    --color_7: rgb(189,233,226) ;
+    --color_8: rgb(125,211,198) ;
+    --color_9: rgb(64,188,168) ;
+    --color_10: rgb(42,124,111) ;
+    --color_11: rgb(255,254,252) ;
+    --color_12: rgb(170,61,29) ;
+    --color_13: rgb(149,189,182) ;
+    --color_14: rgb(95,157,146) ;
+    --color_15: rgb(42,124,111) ;
+    --color_16: rgb(169,226,217) ;
+    --color_17: rgb(84,197,179) ;
+    --color_18: rgb(42,124,111) ;
+    --color_19: rgb(28,83,74) ;
+    --color_20: rgb(14,41,37) ;
+    --color_21: rgb(205,240,234) ;
+    --color_22: rgb(156,224,214) ;
+    --color_23: rgb(106,209,193) ;
+    --color_24: rgb(59,191,170) ;
+    --color_25: rgb(44,141,126) ;
+    --color_26: rgb(255,254,252) ;
+    --color_27: rgb(255,253,248) ;
+    --color_28: rgb(255,217,122) ;
+    --color_29: rgb(252,180,0) ;
+    --color_30: rgb(126,90,0) ;
+    --color_31: rgb(246,253,251) ;
+    --color_32: rgb(238,250,247) ;
+    --color_33: rgb(144,222,203) ;
+    --color_34: rgb(55,189,155) ;
+    --color_35: rgb(28,94,78) ;
+    --color_36: rgb(255,254,252) ;
+    --color_37: rgb(42,124,111) ;
+    --color_38: rgb(255,253,248) ;
+    --color_39: rgb(149,189,182) ;
+    --color_40: rgb(95,157,146) ;
+    --color_41: rgb(28,83,74) ;
+    --color_42: rgb(170,61,29) ;
+    --color_43: rgb(188,177,155) ;
+    --color_44: rgb(103,39,20) ;
+    --color_45: rgb(42,124,111) ;
+    --color_46: rgb(42,124,111) ;
+    --color_47: rgb(95,157,146) ;
+    --color_48: rgb(42,124,111) ;
+    --color_49: rgb(42,124,111) ;
+
+}
+h1,h2,h3,h4,h5,h6,div,ul{
+margin: 0;
+padding: 0;
+}
+  
+body{
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+
+    /* width: 120px;
+    height: 70px; */
+    display: block;
+    text-align: center;
+  
+}
+
+li{
+  
+list-style: none;
+
+}
+
+img{
+   
+}
+
+.nav-list{
+    background: rgb(44,141,126) ;
+    color: aliceblue;
+    padding: 50px;
+
+}
+
+.logo-img{
+    width: 150px;
+    height: 70px;
+    display: block;
+    /* position: relative; */
+    
+   
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+
+}
+p{
+    color: #000;
+}
